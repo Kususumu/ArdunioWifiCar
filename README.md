@@ -5,10 +5,7 @@ PC Wireless Control of Ardunio Wifi Car
 
 <img src="https://github.com/Kususumu/ArdunioWifiCar/blob/master/doc/car.jpg" width="108" height="144">
 <img src="https://github.com/Kususumu/ArdunioWifiCar/blob/master/doc/ESP8266_01.jpg" width="140" height="105">
-
-//8266
-
-![image](https://github.com/Kususumu/ArdunioWifiCar/blob/master/doc/ESP8266_02.JPG)
+<img src="https://github.com/Kususumu/ArdunioWifiCar/blob/master/doc/ESP8266_02.JPG" width="82.6" height="157">
 
 //8266
 
