@@ -3,7 +3,7 @@ PC Wireless Control of Ardunio Wifi Car
 
 //Wifi Car
 
-![image](https://github.com/Kususumu/ArdunioWifiCar/blob/master/doc/car.jpg){:height="700px" width="400px"}
+<img src="https://github.com/Kususumu/ArdunioWifiCar/blob/master/doc/car.jpg" width="540" height="720">
 
 //8266
 
